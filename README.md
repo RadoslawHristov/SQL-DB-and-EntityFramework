@@ -1,1 +1,1 @@
-# C-DB
+# Softuni Curses C# DB
