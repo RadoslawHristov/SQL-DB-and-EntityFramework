@@ -1,0 +1,36 @@
+USE  Minions
+
+CREATE TABLE Users
+(
+	id BIGINT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Username  VARCHAR(30) NOT NULL,
+	Password VARCHAR(26)	NOT NULL,
+	ProfilePicture VARBINARY(MAX) NULL,
+	LastLoginTime DATE DEFAULT GETDATE(),
+	IsDeleted BIT NULL
+)
+
+INSERT INTO Users
+	VALUES
+	('Pesho','123456',NULL,GETDATE(),10),
+	('Icko','daggddb',NULL,GETDATE(),1),
+	('Sasha','12121234',NULL,GETDATE(),0),
+	('Ivan','I123456',NULL,GETDATE(),1),
+	('Gosho123','LSw12389',NULL,GETDATE(),0)
+
+	ALTER TABLE Users
+	DROP  PK__Users__3213E83F974274B0;
+
+	ALTER TABLE Users
+	ADD  PRIMARY KEY (id);
+
+	ALTER TABLE Users
+	ADD CONSTRAINT Username UNIQUE (Username);
+
+	ALTER TABLE Users
+	ADD CONSTRAINT Users_Password_CK CHECK (DATALENGTH(password) >=5)
+
+	ALTER TABLE Users
+	ADD  CONSTRAINT  Users_Username_CK  CHECK (DATALENGTH(password) >=5)
+
+	SELECT * FROM Users
