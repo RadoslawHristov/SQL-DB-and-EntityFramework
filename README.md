@@ -3,5 +3,5 @@
 
 My Certificate DB-Course Softuni
 ------------------------------------------------------------------------
-MY SQL --- https://softuni.bg/certificates/details/139552/21274598
+MS SQL --- https://softuni.bg/certificates/details/139552/21274598
 ------------------------------------------------------------------------
