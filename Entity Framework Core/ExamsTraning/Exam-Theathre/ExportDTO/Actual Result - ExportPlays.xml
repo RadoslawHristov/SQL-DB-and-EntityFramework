@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Plays>
+  <Play Title="A Raisin in the Sun" Duration="PT1H40M" Rating="5.4" Genre="Drama">
+    <Actors />
+  </Play>
+  <Play Title="Awake and Sing" Duration="PT2H41M" Rating="3.8" Genre="Drama">
+    <Actors />
+  </Play>
+  <Play Title="Candida" Duration="PT2H21M" Rating="6.5" Genre="Romance">
+    <Actors />
+  </Play>
+  <Play Title="Fences" Duration="PT3H20M" Rating="4.7" Genre="Musical">
+    <Actors />
+  </Play>
+  <Play Title="Hamlet" Duration="PT2H11M" Rating="4.1" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Hedda Gabler" Duration="PT3H50M" Rating="1" Genre="Musical">
+    <Actors />
+  </Play>
+  <Play Title="Life With Father" Duration="PT4H21M" Rating="0" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Look Back in Anger" Duration="PT1H50M" Rating="5.3" Genre="Musical">
+    <Actors />
+  </Play>
+  <Play Title="Mission Drift" Duration="PT3H21M" Rating="7.1" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Oedipus Rex" Duration="PT1H13M" Rating="7.2" Genre="Musical">
+    <Actors />
+  </Play>
+  <Play Title="Playboy of the Western World" Duration="PT3H21M" Rating="6.1" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Stuff Happens" Duration="PT3H10M" Rating="6.3" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Tartuffe" Duration="PT2H45M" Rating="0" Genre="Drama">
+    <Actors />
+  </Play>
+  <Play Title="The Importance of Being" Duration="PT4H21M" Rating="1.3" Genre="Musical">
+    <Actors />
+  </Play>
+  <Play Title="Three Kingdoms" Duration="PT2H55M" Rating="6.1" Genre="Drama">
+    <Actors />
+  </Play>
+  <Play Title="Uncle Vanya" Duration="PT3H10M" Rating="0" Genre="Drama">
+    <Actors />
+  </Play>
+  <Play Title="What the Butler Saw" Duration="PT2H25M" Rating="5.2" Genre="Comedy">
+    <Actors />
+  </Play>
+  <Play Title="Woyzeck" Duration="PT1H30M" Rating="3.4" Genre="Drama">
+    <Actors />
+  </Play>
+</Plays>
