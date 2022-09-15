@@ -1,0 +1,77 @@
+[
+  {
+    "ShellWeight": 124.0,
+    "Caliber": "155 mm HE ERFB RA-BB",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 146.0,
+    "Caliber": "203 mm (8 in)",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 157.0,
+    "Caliber": "35 mm TP-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 254.0,
+    "Caliber": "20 mm x 102 TP-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 255.0,
+    "Caliber": "20 mm x 102 TP",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 258.0,
+    "Caliber": "20 x 102 mm HEI",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 300.0,
+    "Caliber": "280 mm (11 in)",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 436.0,
+    "Caliber": "25 mm TPDS-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 440.0,
+    "Caliber": "25 mm FAPDS-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 440.0,
+    "Caliber": "25 mm APFSDS-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 835.0,
+    "Caliber": "30 x 173mm TP-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 890.0,
+    "Caliber": "30 x 180mm HEI-T",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 1253.0,
+    "Caliber": "QF 25 PDR MK 2-1",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 1500.0,
+    "Caliber": "460 mm (18 in)",
+    "Guns": []
+  },
+  {
+    "ShellWeight": 1672.0,
+    "Caliber": "40 mm HEI",
+    "Guns": []
+  }
+]
