@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 3,
+    "Name": "Binni Cornhill",
+    "CellNumber": 503,
+    "Officers": [
+      {
+        "FullName": "Hailee Kennon",
+        "Name": "ArtificialIntelligence"
+      },
+      {
+        "FullName": "Theo Carde",
+        "Name": "Blockchain"
+      }
+    ],
+    "TotalOfficerSalary": 7127.93
+  },
+  {
+    "Id": 5,
+    "Name": "Ellette Lante",
+    "CellNumber": 403,
+    "Officers": [
+      {
+        "FullName": "Rica Muscott",
+        "Name": "ArtificialIntelligence"
+      }
+    ],
+    "TotalOfficerSalary": 2339.08
+  },
+  {
+    "Id": 1,
+    "Name": "Melanie Simonich",
+    "CellNumber": 603,
+    "Officers": [
+      {
+        "FullName": "Paddy Weiner",
+        "Name": "Blockchain"
+      }
+    ],
+    "TotalOfficerSalary": 2854.56
+  },
+  {
+    "Id": 7,
+    "Name": "Rosanna Lissaman",
+    "CellNumber": 103,
+    "Officers": [
+      {
+        "FullName": "Theo Carde",
+        "Name": "Blockchain"
+      }
+    ],
+    "TotalOfficerSalary": 3475.44
+  }
+]
